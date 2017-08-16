@@ -8,8 +8,10 @@ content
 ### yeyeyeye
 woefijweoifj
 
-```
-function(){
+
+```js
+void f(){
+  Console.WriteLine("hello world");
   return 2;
 }
 ```
